@@ -59,10 +59,11 @@
 张津明   2017-11-12       0%
 4.6 成果物提交
 将最终Redis模块代码提交到GitHub服务器
-5. Nodejs单元测试
+5. Nodejs单元测试(mocha)
 5.1 学习Nodejs单元测试
 参照：
 http://html5ify.com/unittesting/slides/index.html#/
+https://segmentfault.com/a/1190000002921481
 https://segmentfault.com/a/1190000002921481
 5.2 Nodejs单元测试框架改写4. 编写Redis单元测试脚本
 5.3 进度表
@@ -79,4 +80,22 @@ https://segmentfault.com/a/1190000002921481
 └──────────┴────────────┴──────┘
 5.4 成果物提交
 将最终Redis模块代码提交到GitHub服务器
-
+6. Nodejs静态检查(eslint)
+6.1 安装Nodejs静态检查(eslint)
+参照：
+https://www.npmjs.com/package/eslint
+5.2 用eslint检查各自的js代码并修正。
+5.3 进度表
+┌──────────┬────────────┬──────┐
+│ name     │ plan date  │status│
+├──────────┼────────────┼──────┤
+│ yuwen    │ 2017-11-XX │  0%  │
+├──────────┼────────────┼──────┤
+│ xinxin   │ 2017-11-XX │  0%  │
+├──────────┼────────────┼──────┤
+│ renjie   │ 2017-11-XX │  0%  │
+├──────────┼────────────┼──────┤
+│ zhangjm  │ 2017-11-XX │  0%  │
+└──────────┴────────────┴──────┘
+5.4 成果物提交
+将最终Redis模块代码提交到GitHub服务器
