@@ -47,7 +47,7 @@
 3.3 成果物提交
 将最终Redis模块代码提交到GitHub服务器
 4. 编写Redis单体测试脚本
-4.1 项目下建立test目录，新建db_test.js
+4.1 项目下建立test目录，新建db_test_yourname.js
 4.2 编写test_connect方法，测试连接Redis成功。
 4.3 编写test_set方法,测试创建2.1 User数据成功。
 4.4 编写test_del方法，测试删除2.1 User数据成功。
