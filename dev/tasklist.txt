@@ -46,7 +46,7 @@
 张津明   2017-11-05       0%
 3.3 成果物提交
 将最终Redis模块代码提交到GitHub服务器
-4. 编写Redis单体测试脚本
+4. 编写Redis单元测试脚本
 4.1 项目下建立test目录，新建db_test_yourname.js
 4.2 编写test_connect方法，测试连接Redis成功。
 4.3 编写test_set方法,测试创建2.1 User数据成功。
@@ -58,5 +58,17 @@
 任杰     2017-11-12       0%
 张津明   2017-11-12       0%
 4.6 成果物提交
+将最终Redis模块代码提交到GitHub服务器
+5. Nodejs单元测试
+5.1 学习Nodejs单元测试
+参照：http://html5ify.com/unittesting/slides/index.html#/
+5.2 Nodejs单元测试框架改写4. 编写Redis单体测试脚本
+5.3 进度表
+         计划完成日期   完成度
+喻文     2017-11-XX       0%
+倪立新   2017-11-XX       0%
+任杰     2017-11-XX       0%
+张津明   2017-11-XX       0%
+5.6 成果物提交
 将最终Redis模块代码提交到GitHub服务器
 
