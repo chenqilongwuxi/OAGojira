@@ -34,6 +34,7 @@
 张津明   2017-10-31       100%
 2.3 成果物提交
 将最终构建User数据Redis命令发送到邮箱42408587@qq.com
+
 3. 安装Nodejs Redis模块。
 3.1 任务说明如下：
     第一步：参照https://www.npmjs.com/package/redis将Redis模块安装到本地计算机
@@ -46,6 +47,7 @@
 张津明   2017-11-05       0%
 3.3 成果物提交
 将最终Redis模块代码提交到GitHub服务器
+
 4. 编写Redis单元测试脚本
 4.1 项目下建立test目录，新建db_test_yourname.js
 4.2 编写test_connect方法，测试连接Redis成功。
@@ -59,6 +61,7 @@
 张津明   2017-11-12       0%
 4.6 成果物提交
 将最终Redis模块代码提交到GitHub服务器
+
 5. Nodejs单元测试(mocha)
 5.1 学习Nodejs单元测试
 参照：
@@ -80,8 +83,6 @@ https://segmentfault.com/a/1190000002921481
 └──────────┴────────────┴──────┘
 5.4 成果物提交
 将最终Redis模块代码提交到GitHub服务器
-6. Nodejs静态检查(eslint)
-6.1 安装Nodejs静态检查(eslint)
 参照：
 https://www.npmjs.com/package/eslint
 5.2 用eslint检查各自的js代码并修正。
