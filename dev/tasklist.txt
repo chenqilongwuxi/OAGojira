@@ -82,7 +82,7 @@ https://segmentfault.com/a/1190000002921481
 │ zhangjm  │ 2017-11-XX │  0%  │
 └──────────┴────────────┴──────┘
 5.4 成果物提交
-将最终Redis模块代码提交到GitHub服务器
+将最终Redis模块代码提交到GitHub服务器 
 
 6. Nodejs静态检查(Eslint)
 6.1 安装Nodejs静态检查(Eslint)
