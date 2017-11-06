@@ -48,28 +48,19 @@
 3.3 成果物提交
 将最终Redis模块代码提交到GitHub服务器
 
-4. 编写Redis单元测试脚本
-4.1 项目下建立test目录，新建db_test_yourname.js
-4.2 编写test_connect方法，测试连接Redis成功。
-4.3 编写test_set方法,测试创建2.1 User数据成功。
-4.4 编写test_del方法，测试删除2.1 User数据成功。
-4.5 进度表
-         计划完成日期   完成度
-喻文     2017-11-12       0%
-倪立新   2017-11-12       0%
-任杰     2017-11-12       0%
-张津明   2017-11-12       0%
-4.6 成果物提交
-将最终Redis模块代码提交到GitHub服务器
-
-5. Nodejs单元测试(mocha)
-5.1 学习Nodejs单元测试
+4. Nodejs单元测试(mocha)
+4.1 学习Nodejs单元测试
 参照：
 http://html5ify.com/unittesting/slides/index.html#/
 https://segmentfault.com/a/1190000002921481
 https://segmentfault.com/a/1190000002921481
-5.2 Nodejs单元测试框架改写4. 编写Redis单元测试脚本
-5.3 进度表
+4.2 Nodejs单元测试框架,编写Redis单元测试脚本
+4.2.1 项目下建立test目录，新建db_test_yourname.js
+4.2.2 编写test_connect方法，测试连接Redis成功。
+4.2.3 编写test_set方法,测试创建2.1 User数据成功。
+4.2.4 编写test_del方法，测试删除2.1 User数据成功。
+
+4.3 进度表
 ┌──────────┬────────────┬──────┐
 │ name     │ plan date  │status│
 ├──────────┼────────────┼──────┤
@@ -81,21 +72,21 @@ https://segmentfault.com/a/1190000002921481
 ├──────────┼────────────┼──────┤
 │ zhangjm  │ 2017-11-XX │  0%  │
 └──────────┴────────────┴──────┘
-5.4 成果物提交
-将最终Redis模块代码提交到GitHub服务器 
+4.4 成果物提交
+将最终Redis模块代码提交到GitHub服务器
 
-6. Nodejs静态检查(Eslint)
-6.1 安装Nodejs静态检查(Eslint)
+5. Nodejs静态检查(Eslint)
+5.1 安装Nodejs静态检查(Eslint)
 参照：
 https://www.npmjs.com/package/eslint
 http://eslint.cn/docs/rules/#nodejs-and-commonjs
-6.2 用eslint检查各自的js代码并修正。
+5.2 用eslint检查各自的js代码并修正。
     第一步：安装 eslint(进入项目node_modules目录执行以下命令)
            npm install eslint
     第二步：配置webstorm
            选择File | Settings | Languages & Frameworks | JavaScript | Code Quality Tools | ESLint 勾选 Enable .
     第三步：检查各自的js代码并修正
-6.3 进度表
+5.3 进度表
 ┌──────────┬────────────┬──────┐
 │ name     │ plan date  │status│
 ├──────────┼────────────┼──────┤
@@ -107,7 +98,7 @@ http://eslint.cn/docs/rules/#nodejs-and-commonjs
 ├──────────┼────────────┼──────┤
 │ zhangjm  │ 2017-11-XX │  0%  │
 └──────────┴────────────┴──────┘
-6.4 成果物提交
+5.4 成果物提交
 将最终Redis模块代码提交到GitHub服务器
 
-7. Nodejs项目构建管理(Grunt)
+6. Nodejs项目构建管理(Grunt)
