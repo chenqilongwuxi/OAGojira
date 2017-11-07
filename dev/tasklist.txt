@@ -10,6 +10,7 @@
 
 2. 用Redis命令构建User数据
 2.1 User数据说明如下：
+参照：http://blog.csdn.net/mirage520/article/details/25232133
 [
   {
     "id": 1, 
