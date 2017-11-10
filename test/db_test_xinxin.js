@@ -25,7 +25,7 @@ function test_set () {
     // Set a value
     client.set('user:4:password', '4567895', function (err, reply) {
         if (err) {
-            console.log(err)
+            console.log(err);
             return;
         }
         console.log(reply.toString());
@@ -43,7 +43,7 @@ function test_set () {
 function test_select () {
     client.get('user:4:password', function (err, reply) {
         if (err) {
-            console.log(err)
+            console.log(err);
             return;
         }
         console.log('password:' + reply.toString());
@@ -66,7 +66,7 @@ function test_select () {
 function test_del () {
     client.del('user:4:password', function (err, reply) {
         if (err) {
-            console.log(err)
+            console.log(err);
             return;
         }
         console.log('删除成功' + reply.toString());
