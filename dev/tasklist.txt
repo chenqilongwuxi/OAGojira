@@ -57,6 +57,7 @@
 参照：
 http://html5ify.com/unittesting/slides/index.html#/
 https://segmentfault.com/a/1190000002921481
+http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html
 4.2 Nodejs单元测试框架,编写Redis单元测试脚本
 4.2.1 项目下建立test目录，新建db_test_yourname.js
 4.2.2 编写test_connect方法，测试连接Redis成功。
@@ -105,3 +106,15 @@ http://eslint.cn/docs/rules/#nodejs-and-commonjs
 将最终Redis模块代码提交到GitHub服务器
 
 6. Nodejs项目构建管理(Grunt)
+
+7. 安卓项目构建
+7.1 安卓开发环境构建
+   （构建文档作成，并提供Hell World项目实例）
+7.2 进度表
+┌──────────┬────────────┬──────┐
+│ name     │ plan date  │status│
+├──────────┼────────────┼──────┤
+│ renjie   │ 2017-11-14 │  0%  │
+└──────────┴────────────┴──────┘
+7.3 成果物提交
+    将搭建过程写成文档和项目源代码一起发送到邮箱42408587@qq.com
