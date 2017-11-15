@@ -34,17 +34,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasklist.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasklist.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/tasklist.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="1239">
               <caret line="59" column="72" lean-forward="false" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_test_renjie.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db_test_renjie.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/db_test_renjie.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -163,10 +163,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1120" />
+    <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -183,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,36 +190,12 @@
               <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
               <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="userjerry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OAGojira" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OAGojira" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,12 +274,15 @@
       <workItem from="1509935849118" duration="1543000" />
       <workItem from="1510102215902" duration="5274000" />
       <workItem from="1510189967765" duration="7917000" />
-      <workItem from="1510275305767" duration="5416000" />
+      <workItem from="1510275305767" duration="6011000" />
+      <workItem from="1510534658650" duration="1692000" />
+      <workItem from="1510624180943" duration="599000" />
+      <workItem from="1510709914655" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46622000" />
+    <option name="totallyTimeSpent" value="49796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
@@ -720,18 +697,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/db_test_renjie.js">
+    <entry file="file://$PROJECT_DIR$/dev/tasklist.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1239">
+          <caret line="59" column="72" lean-forward="false" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/tasklist.txt">
+    <entry file="file://$PROJECT_DIR$/test/db_test_renjie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="59" column="72" lean-forward="false" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
